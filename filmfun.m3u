@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cesur Zebra" tvg-language="Turkish" tvg-country="TR" tvg-id="CESUR_ZEBRA" tvg-logo="https://dizifun4.com/images/data/2013_cesur-zebra.webp" group-title="Filmler",Cesur Zebra
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/6p15wbk7quxkhm46gdky/master.m3u8
+#EXTINF:-1 tvg-name="Ziam" tvg-language="Turkish" tvg-country="TR" tvg-id="ZIAM" tvg-logo="https://dizifun4.com/images/data/2025_ziam.webp" group-title="Filmler",Ziam
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/87zwqt2klz93kte68hkd/master.m3u8
+#EXTINF:-1 tvg-name="Ölümsüzlerle Başa Çıkmak" tvg-language="Turkish" tvg-country="TR" tvg-id="OLUMSUZLERLE_BASA_CIKMAK" tvg-logo="https://dizifun4.com/images/data/2024_olumsuzlerle-basa-cikmak.webp" group-title="Filmler",Ölümsüzlerle Başa Çıkmak
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xzkysuatf97q8o3up5ts/master.m3u8
+#EXTINF:-1 tvg-name="Dövüşçü" tvg-language="Turkish" tvg-country="TR" tvg-id="DOVUSCU" tvg-logo="https://dizifun4.com/images/data/2010_dovuscu.webp" group-title="Filmler",Dövüşçü
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ns185p9uyucmrqj4wclv/master.m3u8
+#EXTINF:-1 tvg-name="Masumiyet Çağı" tvg-language="Turkish" tvg-country="TR" tvg-id="MASUMIYET_CAGI" tvg-logo="https://dizifun4.com/images/data/1993_masumiyet-cagi.webp" group-title="Filmler",Masumiyet Çağı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/s2kec799rnt9xp4659ey/master.m3u8
+#EXTINF:-1 tvg-name="Mine" tvg-language="Turkish" tvg-country="TR" tvg-id="MINE" tvg-logo="https://dizifun4.com/images/data/1982_mine.webp" group-title="Filmler",Mine
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fblgnm5uqdz4vzux2c21/master.m3u8
+#EXTINF:-1 tvg-name="Ice Road: Vengeance" tvg-language="Turkish" tvg-country="TR" tvg-id="ICE_ROAD_VENGEANCE" tvg-logo="https://dizifun4.com/images/data/2025_ice-road-vengeance.webp" group-title="Filmler",Ice Road: Vengeance
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zdhogn8hnvhujvfkrujq/master.m3u8
 #EXTINF:-1 tvg-name="Looney Tunes: Dünyayı Kurtarma Operasyonu" tvg-language="Turkish" tvg-country="TR" tvg-id="LOONEY_TUNES_DUNYAYI_KURTARMA_OPERASYONU" tvg-logo="https://dizifun4.com/images/data/2024_looney-tunes-dunyayi-kurtarma-operasyonu.webp" group-title="Filmler",Looney Tunes: Dünyayı Kurtarma Operasyonu
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/q2ddvz6q77tsb1ulohsf/master.m3u8
 #EXTINF:-1 tvg-name="Felaketler Dizisi: 17.000 Davetsiz Misafir" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_17000_DAVETSIZ_MISAFIR" tvg-logo="https://dizifun4.com/images/data/2025_felaketler-dizisi-17000-davetsiz-misafir.webp" group-title="Filmler",Felaketler Dizisi: 17.000 Davetsiz Misafir
