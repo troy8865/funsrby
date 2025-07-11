@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Son Bir Tatil" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_BIR_TATIL" tvg-logo="https://dizifun4.com/images/data/2024_son-bir-tatil.webp" group-title="Filmler",Son Bir Tatil
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/glv4ixqnbt17fm62wola/master.m3u8
+#EXTINF:-1 tvg-name="Ali Congun – Aşk Acısı" tvg-language="Turkish" tvg-country="TR" tvg-id="ALI_CONGUN_ASK_ACISI" tvg-logo="https://dizifun4.com/images/data/10-07-2025-ali-congun--ask-acisi.png" group-title="Filmler",Ali Congun – Aşk Acısı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/q2yz51u7i5trgdn4ivhs/master.m3u8
+#EXTINF:-1 tvg-name="Kilit" tvg-language="Turkish" tvg-country="TR" tvg-id="KILIT" tvg-logo="https://dizifun4.com/images/data/2021_kilit.webp" group-title="Filmler",Kilit
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2zd24scdlms6l8572wj5/master.m3u8
+#EXTINF:-1 tvg-name="İki Aşk Arasında" tvg-language="Turkish" tvg-country="TR" tvg-id="IKI_ASK_ARASINDA" tvg-logo="https://dizifun4.com/images/data/2015_iki-ask-arasinda.webp" group-title="Filmler",İki Aşk Arasında
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/7b8deslui6ta5ern364r/master.m3u8
+#EXTINF:-1 tvg-name="Aşka Davet" tvg-language="Turkish" tvg-country="TR" tvg-id="ASKA_DAVET" tvg-logo="https://dizifun4.com/images/data/2004_aska-davet.webp" group-title="Filmler",Aşka Davet
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/pc428prxa1pv98afw9d8/master.m3u8
+#EXTINF:-1 tvg-name="Hayalet Sevgililerim" tvg-language="Turkish" tvg-country="TR" tvg-id="HAYALET_SEVGILILERIM" tvg-logo="https://dizifun4.com/images/data/2009_hayalet-sevgililerim.webp" group-title="Filmler",Hayalet Sevgililerim
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fla6jquhkrfoq9a66r7h/master.m3u8
+#EXTINF:-1 tvg-name="Tuğla" tvg-language="Turkish" tvg-country="TR" tvg-id="TUGLA" tvg-logo="https://dizifun4.com/images/data/2025_tugla.webp" group-title="Filmler",Tuğla
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/bvl2qba3s1logdw5l8lm/master.m3u8
+#EXTINF:-1 tvg-name="Arif V 216" tvg-language="Turkish" tvg-country="TR" tvg-id="ARIF_V_216" tvg-logo="https://dizifun4.com/images/data/2018_arif-v-216.webp" group-title="Filmler",Arif V 216
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/og21uwka8o5ij98m5krw/master.m3u8
+#EXTINF:-1 tvg-name="Cellar Door" tvg-language="Turkish" tvg-country="TR" tvg-id="CELLAR_DOOR" tvg-logo="https://dizifun4.com/images/data/2024_cellar-door.webp" group-title="Filmler",Cellar Door
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/myandn3jsdp6mfh5rdqg/master.m3u8
+#EXTINF:-1 tvg-name="Mahşerin Üç Delisi" tvg-language="Turkish" tvg-country="TR" tvg-id="MAHSERIN_UC_DELISI" tvg-logo="https://dizifun4.com/images/data/2024_mahserin-uc-delisi.webp" group-title="Filmler",Mahşerin Üç Delisi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/p3fuynw7m2rmbnldxf7c/master.m3u8
+#EXTINF:-1 tvg-name="Davet" tvg-language="Turkish" tvg-country="TR" tvg-id="DAVET" tvg-logo="https://dizifun4.com/images/data/2022_davet.webp" group-title="Filmler",Davet
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/sik781fauzjs4xo8vpxr/master.m3u8
 #EXTINF:-1 tvg-name="Cesur Zebra" tvg-language="Turkish" tvg-country="TR" tvg-id="CESUR_ZEBRA" tvg-logo="https://dizifun4.com/images/data/2013_cesur-zebra.webp" group-title="Filmler",Cesur Zebra
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/6p15wbk7quxkhm46gdky/master.m3u8
 #EXTINF:-1 tvg-name="Ziam" tvg-language="Turkish" tvg-country="TR" tvg-id="ZIAM" tvg-logo="https://dizifun4.com/images/data/2025_ziam.webp" group-title="Filmler",Ziam
