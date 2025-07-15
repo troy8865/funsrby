@@ -51,3 +51,4 @@ jobs:
           git add .
           git commit -m "aynen - $GITHUB_SHA"
           git push
+        
