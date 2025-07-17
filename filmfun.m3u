@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bir Skandalın Peşinde" tvg-language="Turkish" tvg-country="TR" tvg-id="BIR_SKANDALIN_PESINDE" tvg-logo="https://dizifun4.com/images/data/2023_bir-skandalin-pesinde.webp" group-title="Filmler",Bir Skandalın Peşinde
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2ce33oece32b7ritb99k/master.m3u8
+#EXTINF:-1 tvg-name="Joy" tvg-language="Turkish" tvg-country="TR" tvg-id="JOY" tvg-logo="https://dizifun4.com/images/data/2015_joy.webp" group-title="Filmler",Joy
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9u2giwu4wvrtqfd4db4x/master.m3u8
+#EXTINF:-1 tvg-name="Hızlı ve Ateşli" tvg-language="Turkish" tvg-country="TR" tvg-id="HIZLI_VE_ATESLI" tvg-logo="https://dizifun4.com/images/data/2017_hizli-ve-atesli.webp" group-title="Filmler",Hızlı ve Ateşli
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a79mh7n6ewacefogtauw/master.m3u8
+#EXTINF:-1 tvg-name="Hızlı ve Ateşli: Ölüm Yarışı" tvg-language="Turkish" tvg-country="TR" tvg-id="HIZLI_VE_ATESLI_OLUM_YARISI" tvg-logo="https://dizifun4.com/images/data/2020_hizli-ve-atesli-olum-yarisi.webp" group-title="Filmler",Hızlı ve Ateşli: Ölüm Yarışı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zpwmmcmivi7wg74a5mmn/master.m3u8
+#EXTINF:-1 tvg-name="Son Sefer" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_SEFER" tvg-logo="https://dizifun4.com/images/data/2025_son-sefer.webp" group-title="Filmler",Son Sefer
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/927g9ez6dewila2hce5s/master.m3u8
 #EXTINF:-1 tvg-name="Felaketler Dizisi: Balondaki Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_BALONDAKI_COCUK" tvg-logo="https://dizifun4.com/images/data/2025_felaketler-dizisi-balondaki-cocuk.webp" group-title="Filmler",Felaketler Dizisi: Balondaki Çocuk
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9wqxvfk9gskvqx9g74q3/master.m3u8
 #EXTINF:-1 tvg-name="Arkadaşım Şeytan" tvg-language="Turkish" tvg-country="TR" tvg-id="ARKADASIM_SEYTAN" tvg-logo="https://dizifun4.com/images/data/1988_arkadasim-seytan.webp" group-title="Filmler",Arkadaşım Şeytan
