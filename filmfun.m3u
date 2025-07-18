@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Amatör" tvg-language="Turkish" tvg-country="TR" tvg-id="AMATOR" tvg-logo="https://dizifun4.com/images/data/2025_amator.webp" group-title="Filmler",Amatör
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/f3qekd9th4gky4xoco19/master.m3u8
+#EXTINF:-1 tvg-name="Değirmen" tvg-language="Turkish" tvg-country="TR" tvg-id="DEGIRMEN" tvg-logo="https://dizifun4.com/images/data/1986_degirmen.webp" group-title="Filmler",Değirmen
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cfpwnyjyw7gub1elsf2h/master.m3u8
+#EXTINF:-1 tvg-name="Satılık Ruh" tvg-language="Turkish" tvg-country="TR" tvg-id="SATILIK_RUH" tvg-logo="https://dizifun4.com/images/data/2010_satilik-ruh.webp" group-title="Filmler",Satılık Ruh
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3gzx4zb2rwix98296gyy/master.m3u8
+#EXTINF:-1 tvg-name="İnsanlığın Sonu" tvg-language="Turkish" tvg-country="TR" tvg-id="INSANLIGIN_SONU" tvg-logo="https://dizifun4.com/images/data/2015_insanligin-sonu.webp" group-title="Filmler",İnsanlığın Sonu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wjoq7f51ikq2hg3vwgzo/master.m3u8
+#EXTINF:-1 tvg-name="Para Çıkışı 2" tvg-language="Turkish" tvg-country="TR" tvg-id="PARA_CIKISI_2" tvg-logo="https://dizifun4.com/images/data/2025_para-cikisi-2.webp" group-title="Filmler",Para Çıkışı 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/mv9gh8oec2eaiptd6kxu/master.m3u8
+#EXTINF:-1 tvg-name="Ip Man" tvg-language="Turkish" tvg-country="TR" tvg-id="IP_MAN" tvg-logo="https://dizifun4.com/images/data/2008_ip-man.webp" group-title="Filmler",Ip Man
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/uacfzbqara96crn5admj/master.m3u8
 #EXTINF:-1 tvg-name="Bir Skandalın Peşinde" tvg-language="Turkish" tvg-country="TR" tvg-id="BIR_SKANDALIN_PESINDE" tvg-logo="https://dizifun4.com/images/data/2023_bir-skandalin-pesinde.webp" group-title="Filmler",Bir Skandalın Peşinde
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2ce33oece32b7ritb99k/master.m3u8
 #EXTINF:-1 tvg-name="Joy" tvg-language="Turkish" tvg-country="TR" tvg-id="JOY" tvg-logo="https://dizifun4.com/images/data/2015_joy.webp" group-title="Filmler",Joy
